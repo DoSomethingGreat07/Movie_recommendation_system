@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Movie_recommendation_system
 =======
 # 🎬 Movie Recommender System
