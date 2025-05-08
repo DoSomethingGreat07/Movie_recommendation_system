@@ -1,6 +1,4 @@
 
-# Movie_recommendation_system
-=======
 # 🎬 Movie Recommender System
 
 A sleek and interactive movie recommendation web app built using **Streamlit**, leveraging **machine learning similarity metrics** and the **TMDB API** to fetch movie posters. Select a movie and receive five personalized recommendations with high-quality visuals.
